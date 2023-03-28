@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Run in Chrome"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="51.196">
+  <properties />
+  
+  
+            <testcase name="Post_03_Update" time="20.615" classname="com.wordpress.admin.Post_01_Create_View_Update_Delete_Search" />
+                <testcase name="Post_01_Create_New_Add" time="9.364" classname="com.wordpress.admin.Post_01_Create_View_Update_Delete_Search" />
+                <testcase name="Post_02_Search_And_View" time="9.847" classname="com.wordpress.admin.Post_01_Create_View_Update_Delete_Search" />
+                <testcase name="Post_04_Delete" time="11.370" classname="com.wordpress.admin.Post_01_Create_View_Update_Delete_Search" />
+      
+</testsuite>

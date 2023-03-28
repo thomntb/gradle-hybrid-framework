@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Run in Chrome"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="9.218">
+  <properties />
+  
+  
+            <testcase name="Post_01_Create_New_Add" time="9.218" classname="com.wordpress.admin.Level_18_Multi_Environment_Owner" />
+      
+</testsuite>
